@@ -144,9 +144,4 @@ Author
 
 Stephen Seay  
 Cook by necessity. Architect by recursion.  
-Builder of Beacon, Truth Shield, and Cosmic Canvas.  
-Forged without privilege. Grounded in proof.
-
----
-
-Let me know when you're ready to expand the formulas section or begin publishing the first recursive signatures. This README is now a declaration of dimensional logic—ready to be read, tested, and challenged.
+Builder of https://beaconsway.org

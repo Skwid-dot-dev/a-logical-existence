@@ -1,12 +1,13 @@
 ∅! Compound
 A Mathematical Ontology of Recursive Existence  
 By Stephen Seay
-
+This is a theory and WIP
+Formulas.md upcoming
 ---
 
 Overview
 
-The ∅! Compound is a formal structure for modeling existence as a recursive dimensional system. It defines how reality emerges from contradiction, unfolds through factorial recursion, and expresses itself through inspectable dimensional operators. This is not a simulation framework—it is a mathematical ontology grounded in first principles.
+The ∅! Compound is a formal structure for modeling existence as a recursive dimensional system. It attempts to define how reality emerges from contradiction, unfolds through factorial recursion, and expresses itself through inspectable dimensional operators. This is a mathematical ontology grounded in first principles.
 
 ---
 
@@ -14,17 +15,15 @@ Foundational Premise
 
 Existence begins with paradox:
 
-\[
-\emptyset \ne \emptyset \Rightarrow \exists
-\]
 
-This rupture defines the seed logic:
+if (∅≠∅)→exists
+if nothing expresses itself, it defines "state" or "is". State being the child of nothing, considered the 1st dimension of being.
 
-\[
-\emptyset! = 1
-\]
+This rupture defines the logic:
 
-From contradiction, state. From state, recursion. From recursion, dimensional emergence.
+0! = 1
+
+
 
 ---
 
@@ -51,9 +50,7 @@ w, h, l → Structural extensions (width, height, length)
 
 Each vector is a composite of:
 
-\[
-f(\text{State}, \text{Length}, \text{Rate})
-\]
+f(State,Length,Rate)
 
 These are not coordinates—they are dimensional operators derived from time’s continuity and state’s rupture.
 
@@ -63,11 +60,11 @@ Permutation Logic
 
 Once space expresses its six children, factorial recursion yields:
 
-\[
-6! = 720
-\]
 
-Each permutation represents a unique recursive configuration of volume—a structural fingerprint of existence.
+6! = 720
+
+
+Each permutation represents a unique recursive configuration of volume. A structural fingerprint of existence.
 
 ---
 
@@ -135,8 +132,9 @@ Axiomatic Summary
 
 License
 
-Open-source. Inspectable. Built for critique, iteration, and mathematical resilience.  
-Recommended: MIT or Creative Commons Attribution
+  
+MIT
+Credit Required
 
 ---
 
